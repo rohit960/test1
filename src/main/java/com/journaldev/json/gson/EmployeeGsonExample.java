@@ -21,7 +21,7 @@ public class EmployeeGsonExample {
 
 	public static void main(String[] args) throws IOException {
 		Employee emp = createEmployee();
-
+		//Master Edit 002
 		// Get Gson object
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
