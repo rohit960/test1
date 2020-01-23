@@ -3,7 +3,7 @@
   <groupId>com.journaldev.json</groupId>
   <artifactId>gson-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+EDTI Mastrer
 <dependencies>
     <!--  Gson: Java to Json conversion -->
     <dependency>
