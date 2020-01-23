@@ -8,7 +8,7 @@
     <!--  Gson: Java to Json conversion -->
     <dependency>
       <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
+      <artifactId>gsoAn</artifactId>
       <version>2.2.4</version>
     </dependency>
 </dependencies>
