@@ -3,7 +3,7 @@ package com.journaldev.json.model;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-
+// 2:16 Changes in Master by others
 import com.google.gson.annotations.SerializedName;
 
 public class Employee {
