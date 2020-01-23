@@ -2,6 +2,8 @@ package com.journaldev.json.gson;
 
 // git pull test
 
+// git Master has changed
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
