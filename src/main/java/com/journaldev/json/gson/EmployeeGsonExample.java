@@ -4,6 +4,8 @@ package com.journaldev.json.gson;
 // Branch 002 
 // git Master has changed
 
+// Making changes to branch 002 - B
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
